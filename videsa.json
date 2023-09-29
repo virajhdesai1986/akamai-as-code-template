@@ -1,10 +1,10 @@
 {
-    "accountId": "act_YYYY",
-    "contractId": "ctr_YYYY",
-    "groupId": "grp_YYYY",
+    "accountId": "1-6JHGX",
+    "contractId": "1-1NC95D",
+    "groupId": "229585",
     "ruleFormat": "latest",
-    "propertyId": "prp_YYYYX",
-    "propertyName": "property_name",
+    "propertyId": "prp_12345",
+    "propertyName": "videsa_code",
     "propertyVersion": 1,
     "rules": {
         "name": "default",
