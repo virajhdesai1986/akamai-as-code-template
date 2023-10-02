@@ -182,7 +182,7 @@
                         "name": "advanced",
                             "options": {
                                 "description": "Akamizer Code",
-                                "xml": 
+                                "xml": {
                                 "<edgecomputing:processor>
                                 <value>akamaizer</value>
                                 <allow-akamaizer>on</allow-akamaizer>
@@ -211,6 +211,7 @@
                                   <type>include</type>
                                 </tag-filter>
                                 </edgecomputing:akamaizer>"
+                                }
                             },
                             "uuid": "4ff7af67-89c7-493e-89a6-46289c1531ff"                      
                     }
