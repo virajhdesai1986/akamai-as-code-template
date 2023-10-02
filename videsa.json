@@ -180,15 +180,16 @@
                 [
                     {
                         "name": "advanced",
-                            "options": {
+                        "options": 
+                        {
                                 "description": "Akamizer Code",
-                                "xml": {
+                                "xml": 
                                 "<edgecomputing:processor>
                                 <value>akamaizer</value>
                                 <allow-akamaizer>on</allow-akamaizer>
                                 <status>on</status>
-                                </edgecomputing:processor>
-                                <edgecomputing:akamaizer>
+                              </edgecomputing:processor>
+                              <edgecomputing:akamaizer>
                                 <tag-filter>
                                   <rule>#Request Information#Akamai Details - Headers Received:#</rule>
                                   <tags>h1</tags>
@@ -210,10 +211,9 @@
                                   <scope>block</scope>
                                   <type>include</type>
                                 </tag-filter>
-                                </edgecomputing:akamaizer>"
-                                }
-                            },
-                            "uuid": "4ff7af67-89c7-493e-89a6-46289c1531ff"                      
+                              </edgecomputing:akamaizer>"
+                        },
+                        "uuid": "4ff7af67-89c7-493e-89a6-46289c1531ff"                      
                     }
                 ],
                 "criteria": 
