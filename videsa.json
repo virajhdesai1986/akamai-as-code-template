@@ -2,7 +2,7 @@
     "accountId": "act_1-6JHGX",
     "contractId": "ctr_1-1NC95D",
     "groupId": "grp_229585",
-    "ruleFormat": "latest",
+    "ruleFormat": "v2023-10-03",
     "propertyId": "prp_123456",
     "propertyName": "videsa_code",
     "propertyVersion": 1,
@@ -183,8 +183,8 @@
                         "options": 
                         {
                                 "description": "Akamizer Code",
-                                "xml": 
-                                "<edgecomputing:processor>
+                                "xml": "
+                                <edgecomputing:processor>
                                 <value>akamaizer</value>
                                 <allow-akamaizer>on</allow-akamaizer>
                                 <status>on</status>
